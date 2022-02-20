@@ -6,12 +6,15 @@ If 3n+1 is performed properly, every odd number it produces has an even input an
 
 Base: 2 Index:2
 10
+
 01
 
 Cantor’s diagonal argument says we could make another number “00” so it would be possible for the base and index to contain another number, therefore we should make another number if we are counting. Obviously the diagonal argument is just a visual representation of the fact that the size of the index is always logarithmic in relation to the power. [2]
 
 10
+
 01
+
 11
 
 The “vertical argument” states that we would make another number with Base: 2 Index: 3 from “101” or “011”. If one has written the list above they have necessarily written the list below. If we are counting we should count all possible numbers we can make from our base and index.
@@ -23,12 +26,16 @@ The “vertical argument” states that we would make another number with Base: 
 This process can be cyclically repeated infinitely, and even works for natural numbers. Infinity shall be named “Ᵹ”.
 
 1
+
 2
 …
+
 10
 …
+
 100
 …
+
 Ᵹ 
 	Since the index is always logarithmic to the power then the vertical argument would make a number with a larger index. We can visually see the natural numbers are uncountable because a list (which is how you count) of them would require writing a number larger than the largest number, this would happen the number after log10(Ᵹ). This behavior shall be called “teleonomy”. Diagonal teleonomy simply means we are in the realm of possibility (could) and only when we achieve certainty indirectly do we come to rest at horizontal teleonomy, which is reinforced (should). Vertical teleonomy being enforced (would), never enters the realm of possibility, it is initially and eternally in the realm of certainty.  Like a long object with two forces perpendicular to the surface below it moving in both directions, the strength of these forces changing very randomly and drastically, and a third force attracting the object to the surface like gravity eventually overpowering the other two at a close enough range to the surface. Should is certain, but not the same as would which is stronger because we added no new rules. These proofs are “teleonomic proofs” of their type. This is a vertical teleonomic proof for the continuum hypothesis being false, at Ᵹ we actually made a set of numbers with a cardinality greater than the natural numbers and less than the real numbers [3]. It is also a horizontal teleonomic proof that all infinities are absolutely infinite, they should all be the same size but also have some difference between them, the relative size of the units making their bases called “monads”. The only way we can express infinities is by a relation between Ᵹ and another number, similar to the imaginary unit.
 
