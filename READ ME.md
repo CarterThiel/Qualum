@@ -1,8 +1,9 @@
 THE COLLATZ CONTINUUM
 by Carter Thiel
 
-	If 3n+1 is performed properly, every odd number it produces has an even input and an even output but not every even number has an odd input and odd output. Accordingly, more than half of numbers produced by 3n+1 must be even. Half of all numbers are odd and half are even. It would seem that the Collatz conjecture is not satisfied by some numbers and therefore is false. However, this also means that any set of numbers not satisfying the conjecture has to contain more odd numbers than even numbers and not every odd number would have an even input and an even output. Any system producing a set of these "non-Collatz satisfying" numbers would be inconsistent and erroneous, it would not be performing 3n+1 properly. Therefore the Collatz conjecture must be true. [1]
+If 3n+1 is performed properly, every odd number it produces has an even input and an even output but not every even number has an odd input and odd output. Accordingly, more than half of numbers produced by 3n+1 must be even. Half of all numbers are odd and half are even. It would seem that the Collatz conjecture is not satisfied by some numbers and therefore is false. However, this also means that any set of numbers not satisfying the conjecture has to contain more odd numbers than even numbers and not every odd number would have an even input and an even output. Any system producing a set of these "non-Collatz satisfying" numbers would be inconsistent and erroneous, it would not be performing 3n+1 properly. Therefore the Collatz conjecture must be true. [1]
 	This also means that any completion of the infinite set would be inconsistent, it will not only be possible to have a new number, it should have a new number if we are applying the rules of the Collatz conjecture. This is similar to Cantor's “diagonal” argument and his proof of the inconsistency of the absolute infinity. [2] Except this proof shows that all infinities have same size.
+
 Base: 2 Index:2
 10
 01
